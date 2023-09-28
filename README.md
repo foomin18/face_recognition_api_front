@@ -1,2 +1,2 @@
-# face_recognition_api_front
+# face_recognition_front
 api fetch on frontend
